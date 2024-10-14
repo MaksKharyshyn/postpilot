@@ -346,7 +346,126 @@
 }
 
 .grey {
-    
+    color: #000000;
 }
 
+/* obvi styles */
+
+.top_title {
+    font-family: Inter;
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: left;
+    color: #2E2F35;
+}
+
+.aque {
+    font-family: Covered By Your Grace;
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #009387; 
+}
+
+.top_text {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: left;
+    color: #58595D;
+}
+
+.middle_title {
+    font-family: Inter;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: -1px;
+    text-align: left;
+    color: #2E2F35;
+}
+
+.middle_text {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color: #58595D;
+}
+
+.obvi_btn {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1.2px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+/* try styles */
+
+.try_title {
+    font-family: Inter;
+    font-size: 81px;
+    font-weight: 700;
+    line-height: 96px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.try_text {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: left;
+    color: #FFFFFF;    
+}
+
+.try_btn {
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1.2px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+.try_right_block {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.try_bottom_text {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color: #FFFFFF;    
+}
+
+/* insights styles */
+
+.insights_title {
+    font-family: Inter;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: ;    
+}
 
