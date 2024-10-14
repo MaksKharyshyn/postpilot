@@ -543,6 +543,41 @@
     font-weight: 500;
     line-height: 30px;
     text-align: left;
-    
+    color: #58595D;
+}
+
+.pilot_text {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color: #58595D;
+}
+
+.footer_btn_white {
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #2E2F35;
+    border: 2px solid #2E2F35;
+    border-radius: 12px;
+    padding: 14px 22px;
+    background-color: inherit;
+}
+
+.footer_btn_orange {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 2px solid #2E2F35;
+    border-radius: 12px;
+    background-color: #FF6D2C;
+    padding: 14px 24px;
 }
  
