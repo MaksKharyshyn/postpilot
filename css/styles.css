@@ -1,0 +1,305 @@
+/* header styles */
+
+.header {
+    background-color: #FFFFFF;
+}
+
+.header_link {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    color: #222222;
+}
+
+.header_btn {
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+.orange {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;    
+}
+
+/*favorite styles */
+
+.left_favorite_title {
+    font-family: Inter;
+    font-size: 82px;
+    font-weight: 700;
+    line-height: 96px;
+    text-align: left;
+    color: #2E2F35;    
+}
+
+.aque {
+    font-family: Covered By Your Grace;
+    font-size: 82px;
+    font-weight: 400;
+    line-height: 96px;
+    text-align: left;
+    color: #009387;
+}
+
+.left_favorite_text {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: left;
+    color: #58595D;
+}
+
+.left_btn {
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1.2px;
+    text-align: center;
+}
+
+.left_text {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #2E2F35;
+}
+
+/* brands styles */
+
+.brands_title {
+    font-family: Inter;
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+.aque {
+    font-family: Covered By Your Grace;
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #009387;
+}
+
+/* works styles */
+
+.works_title {
+    font-family: Inter;
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+.aque {
+    font-family: Covered By Your Grace;
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #009387;  
+}
+
+.works_sub_title {
+    font-family: Inter;
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+.works_text {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: center;
+    color: #58595D;
+}
+
+/* cinch styles */
+
+.cinch_title {
+    font-family: Inter;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+.aque {
+    font-family: Covered By Your Grace;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #009387;
+}
+
+.cinch_sub_title {
+    font-family: Inter;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -4px;
+    text-align: left;
+    color: #2E2F35;
+}
+
+.cinch_text {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: left;
+    color: #58595D;
+}
+
+.cinch_sub_text {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #A89B90;
+}
+
+.cinch_btn {
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1.2px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* unforgettable styles */
+
+.unforgettable_title {
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+.aque {
+    font-family: Covered By Your Grace;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 100px;
+    letter-spacing: -4px;
+    text-align: center;
+    color: #009387;
+}
+
+.unforgettable_sub_title {
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+.unforgettable_text {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    color: #58595D;
+}
+
+/* fast styles */
+
+.fast_title {
+    font-family: Inter;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #2E2F35;
+}
+
+.aque {
+    font-family: Covered By Your Grace;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 76px;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #009387;
+}
+
+.fast_text {
+    font-family: Covered By Your Grace;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 4px;
+    text-align: left;
+    color: #00938766;
+}
+
+.fast_title {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #2E2F3566;
+}
+
+.black {
+    color: #2E2F35;
+}
+
+.fast_sub_text {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: left;
+    color: #58595D;
+}
+
+/* DTC styles */
+
+.dtc_title {
+    
+}
+
+
