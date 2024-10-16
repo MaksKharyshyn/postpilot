@@ -70,6 +70,9 @@
    display: flex;
 }
 
+.left_side_block {
+    padding: 128px 0 128px 75px;
+}
 
 .left_favorite_title {
     font-family: Inter;
@@ -77,7 +80,8 @@
     font-weight: 700;
     line-height: 96px;
     text-align: left;
-    color: #2E2F35;    
+    color: #2E2F35; 
+    margin-bottom: 25px;   
 }
 
 .aque {
@@ -96,6 +100,7 @@
     line-height: 34px;
     text-align: left;
     color: #58595D;
+    margin-bottom: 48px;
 }
 
 .left_btn {
@@ -105,6 +110,11 @@
     line-height: 20px;
     letter-spacing: 1.2px;
     text-align: center;
+    color: #FFFFFF;
+    border: 2px solid #2E2F35;
+    background-color: #FF6D2C;
+    border-radius: 15px;
+    padding: 22px 65px;
 }
 
 .left_text {
@@ -117,6 +127,11 @@
 }
 
 /* brands styles */
+
+.brands_list {
+    display: flex;
+    justify-content: space-evenly;
+}
 
 .brands_title {
     font-family: Inter;
