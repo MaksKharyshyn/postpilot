@@ -2,6 +2,25 @@
 
 .header {
     background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo_wrapper {
+    margin-left: 75px;  
+}
+
+.header_list {
+    display: flex;
+}
+
+.header_btn_nav {
+    display: flex;
+    align-items: center;
+}
+
+.header_item {
+    margin-right: 30px;
 }
 
 .header_link {
@@ -22,16 +41,35 @@
     color: #2E2F35;
 }
 
+.first {
+    border: 2px solid #2E2F35;
+    padding: 13px 22px;
+    border-radius: 12px;
+    background-color: #FFFFFF;
+    margin-right: 16px;
+}
+
 .orange {
     font-family: Inter;
     font-size: 14px;
     font-weight: 500;
     line-height: 18px;
     text-align: center;
-    color: #FFFFFF;    
+    color: #FFFFFF;
+    border: 2px solid #2E2F35; 
+    border-radius: 12px;
+    background-color: #FF6D2C;
+    padding: 13px 26px;
+    margin-right: 75px;
 }
 
 /*favorite styles */
+
+.favorite {
+   background-color: #E0F8F2; 
+   display: flex;
+}
+
 
 .left_favorite_title {
     font-family: Inter;
@@ -580,4 +618,6 @@
     background-color: #FF6D2C;
     padding: 14px 24px;
 }
+
+
  
